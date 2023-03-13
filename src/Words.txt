@@ -1,0 +1,4 @@
+computer
+home
+desk
+phone
