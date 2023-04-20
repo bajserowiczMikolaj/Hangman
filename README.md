@@ -1,4 +1,4 @@
-# 🌟 Hangman 🦥 
+# Hangman Game
 
 The HangMan game is my first project in Java on Nology Course. The goal of this project was to demonstrate that I clearly understood the **4 Pillars of Object Oriented Programming**. 
 
